@@ -1,0 +1,13 @@
+第1题 java语言是哪年发明的？
+A.1991
+B.1994
+C.1996
+D.1999
+A
+
+第2题 下列关于JDK、JRE和JVM的描述，哪项正确？
+A.JDK包含JRE,JVM包含JRE
+B.JDK包含JRE,JRE包含JVM
+C.JRE包含JDK,JVM包含JRE
+D.JRE包含JDK,JVM包含JRE
+B
